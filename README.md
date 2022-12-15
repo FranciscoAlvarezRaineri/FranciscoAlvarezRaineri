@@ -21,8 +21,6 @@ Having graduated from an intensive bootcamp, I’m eager to join a team and star
 ### Projects
 
 
-#
-
 ### Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoalvarezraineri&show_icons=true&theme=gruvbox)
