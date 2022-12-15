@@ -12,33 +12,21 @@ I'm
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55)" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://avatars.githubusercontent.com/u/18133?s=200&v=4)" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 
 #
 
-### 📺 Latest YouTube Videos
+### Projects
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![How to Improve Efficiency as a Software Developer](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=How+to+Improve+Efficiency+as+a+Software+Developer&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "How to Improve Efficiency as a Software Developer")](https://www.youtube.com/watch?v=Ov1tuHS4uNw)
-[![How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=How+to+Build+a+Minimal+Developer+Portfolio+Website+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=b0pkpcD8Ms4)
-[![Command Line Tools ALL Developers Should Know](https://ytcards.demolab.com/?id=DIny00tOBdU&title=Command+Line+Tools+ALL+Developers+Should+Know&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Command Line Tools ALL Developers Should Know")](https://www.youtube.com/watch?v=DIny00tOBdU)
-[![I Built a Minimal Developer Portfolio Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=g9hPa-G3lfw&title=I+Built+a+Minimal+Developer+Portfolio+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1666797301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=725 "I Built a Minimal Developer Portfolio Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=g9hPa-G3lfw)
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
-[![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&lang=en&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoalvarezraineri&show_icons=true&theme=gruvbox)
 
 #
 
