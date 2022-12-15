@@ -1,13 +1,13 @@
 # Francisco Alvarez Raineri
 
-## Full Stack Developer
+### Full Stack Developer
 
 After a decade of working temporary jobs in search of a life as a writer, I realized that I would rather enjoy it as a hobby and take a shot at a
 career in programming. The subject caught my attention back in high-school, mainly due to my life-long love for problem solving.
 
 Having graduated from an intensive bootcamp, I’m eager to join a team and start adding value. I’m interested in languages and would like to learn Typescript or Rust, in addition to Python.
 
-## Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -17,10 +17,10 @@ Having graduated from an intensive bootcamp, I’m eager to join a team and star
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><br>
 
-## Projects
+### Projects
 
 
-## Stats
+### Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoalvarezraineri&show_icons=true&theme=gruvbox)
 
