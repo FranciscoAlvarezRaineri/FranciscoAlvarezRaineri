@@ -16,8 +16,6 @@ Having graduated from an intensive bootcamp, I’m eager to join a team and star
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-</br>
-
 ### Projects
 
 
