@@ -6,8 +6,6 @@ After a decade of working temporary jobs in search of a life as a writer, I real
 career in programming. The subject caught my attention back in high-school, mainly due to my life-long love for problem solving. <br>
 Having graduated from an intensive bootcamp, I’m eager to join a team and start adding value. I’m interested in languages and would like to learn Typescript or Rust, in addition to Python.
 
----
-
 ### Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
