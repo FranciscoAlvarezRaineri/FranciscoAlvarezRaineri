@@ -12,8 +12,8 @@ Having graduated from an intensive bootcamp, I’m eager to join a team and star
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55)" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
