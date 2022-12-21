@@ -5,7 +5,7 @@
 After a decade of working temporary jobs in search of a life as a writer, I realized that I would rather enjoy it as a hobby and take a shot at a
 career in programming. The subject caught my attention back in high-school, mainly due to my life-long love for problem solving.
 
-Having graduated from an intensive bootcamp, I’m eager to join a team and start adding value. I’m interested in languages and would like to learn Typescript or Rust, in addition to Python.
+Having graduated from an intensive bootcamp, I’m eager to join a team and start adding value.
 
 ### Languages and Tools
 
