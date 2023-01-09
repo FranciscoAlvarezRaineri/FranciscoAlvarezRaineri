@@ -2,10 +2,12 @@
 
 ### Full Stack Developer
 
-After a decade of working temporary jobs in search of a life as a writer, I realized that I would rather enjoy it as a hobby and take a shot at a
-career in programming. The subject caught my attention back in high-school, mainly due to my life-long love for problem solving.
+After a decade of working temporary jobs, I felt the need to settle down and follow  the path of a professional career.
+Programming came as the obvious choice.
+The subject caught my attention back in high-school because problem solving is my modus operandi and writing comes as a natural way to achieve it. 
 
-Having graduated from an intensive bootcamp, I’m eager to join a team and start adding value.
+Having graduated from an +800hs intensive bootcamp, I’m eager to join a team and start adding value.
+Meanwhile, there are plenty of problems to work on and tools to learn.
 
 ### Languages and Tools
 
