@@ -26,6 +26,6 @@ Meanwhile, there are plenty of problems to work on and tools to learn.
 
 ### Stats
 
-![GitHub stats]([https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=franciscoalvarezraineri&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=franciscoalvarezraineri&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
