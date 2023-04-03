@@ -24,6 +24,7 @@ Meanwhile, there are plenty of problems to work on and tools to learn.
 ### Projects
 
 Portfolio: https://farportfolio.netlify.app/
+<br>
 TMDB: https://tmdbnavigator.netlify.app/
 
 
