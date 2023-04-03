@@ -23,6 +23,8 @@ Meanwhile, there are plenty of problems to work on and tools to learn.
 
 ### Projects
 
+fast-delivery: https://github.com/p5-staffys/fast-delivery
+<br>
 Portfolio: https://farportfolio.netlify.app/
 <br>
 TMDB: https://tmdbnavigator.netlify.app/
